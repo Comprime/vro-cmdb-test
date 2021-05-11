@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "@types/ecmascript": "file:..\\..\\..\\..\\.m2\\repository\\com\\vmware\\pscoe\\ts\\ecmascript\\7.0.13\\ecmascript-7.0.13.tgz",
+    "@types/jasmine": "file:..\\..\\..\\..\\.m2\\repository\\com\\vmware\\pscoe\\ts\\jasmine\\7.0.13\\jasmine-7.0.13.tgz",
+    "@types/node": "file:..\\..\\..\\..\\.m2\\repository\\com\\vmware\\pscoe\\ts\\node\\7.0.13\\node-7.0.13.tgz",
+    "@types/o11n-core": "file:..\\..\\..\\..\\.m2\\repository\\com\\vmware\\pscoe\\ts\\o11n-core\\7.0.13\\o11n-core-7.0.13.tgz",
+    "@types/o11n-plugin-activedirectory": "file:..\\..\\..\\..\\.m2\\repository\\com\\vmware\\pscoe\\ts\\o11n-plugin-activedirectory\\7.0.13\\o11n-plugin-activedirectory-7.0.13.tgz",
+    "@types/o11n-plugin-amqp": "file:..\\..\\..\\..\\.m2\\repository\\com\\vmware\\pscoe\\ts\\o11n-plugin-amqp\\7.0.13\\o11n-plugin-amqp-7.0.13.tgz",
+    "@types/o11n-plugin-apic": "file:..\\..\\..\\..\\.m2\\repository\\com\\vmware\\pscoe\\ts\\o11n-plugin-apic\\7.0.13\\o11n-plugin-apic-7.0.13.tgz",
+    "@types/o11n-plugin-azure": "file:..\\..\\..\\..\\.m2\\repository\\com\\vmware\\pscoe\\ts\\o11n-plugin-azure\\7.0.13\\o11n-plugin-azure-7.0.13.tgz",
+    "@types/o11n-plugin-dynamictypes": "file:..\\..\\..\\..\\.m2\\repository\\com\\vmware\\pscoe\\ts\\o11n-plugin-dynamictypes\\7.0.13\\o11n-plugin-dynamictypes-7.0.13.tgz",
+    "@types/o11n-plugin-mail": "file:..\\..\\..\\..\\.m2\\repository\\com\\vmware\\pscoe\\ts\\o11n-plugin-mail\\7.0.13\\o11n-plugin-mail-7.0.13.tgz",
+    "@types/o11n-plugin-net": "file:..\\..\\..\\..\\.m2\\repository\\com\\vmware\\pscoe\\ts\\o11n-plugin-net\\7.0.13\\o11n-plugin-net-7.0.13.tgz",
+    "@types/o11n-plugin-nsx": "file:..\\..\\..\\..\\.m2\\repository\\com\\vmware\\pscoe\\ts\\o11n-plugin-nsx\\7.0.13\\o11n-plugin-nsx-7.0.13.tgz",
+    "@types/o11n-plugin-powershell": "file:..\\..\\..\\..\\.m2\\repository\\com\\vmware\\pscoe\\ts\\o11n-plugin-powershell\\7.0.13\\o11n-plugin-powershell-7.0.13.tgz",
+    "@types/o11n-plugin-rest": "file:..\\..\\..\\..\\.m2\\repository\\com\\vmware\\pscoe\\ts\\o11n-plugin-rest\\7.0.13\\o11n-plugin-rest-7.0.13.tgz",
+    "@types/o11n-plugin-snmp": "file:..\\..\\..\\..\\.m2\\repository\\com\\vmware\\pscoe\\ts\\o11n-plugin-snmp\\7.0.13\\o11n-plugin-snmp-7.0.13.tgz",
+    "@types/o11n-plugin-soap": "file:..\\..\\..\\..\\.m2\\repository\\com\\vmware\\pscoe\\ts\\o11n-plugin-soap\\7.0.13\\o11n-plugin-soap-7.0.13.tgz",
+    "@types/o11n-plugin-sql": "file:..\\..\\..\\..\\.m2\\repository\\com\\vmware\\pscoe\\ts\\o11n-plugin-sql\\7.0.13\\o11n-plugin-sql-7.0.13.tgz",
+    "@types/o11n-plugin-ssh": "file:..\\..\\..\\..\\.m2\\repository\\com\\vmware\\pscoe\\ts\\o11n-plugin-ssh\\7.0.13\\o11n-plugin-ssh-7.0.13.tgz",
+    "@types/o11n-plugin-vapi": "file:..\\..\\..\\..\\.m2\\repository\\com\\vmware\\pscoe\\ts\\o11n-plugin-vapi\\7.0.13\\o11n-plugin-vapi-7.0.13.tgz",
+    "@types/o11n-plugin-vc": "file:..\\..\\..\\..\\.m2\\repository\\com\\vmware\\pscoe\\ts\\o11n-plugin-vc\\7.0.13\\o11n-plugin-vc-7.0.13.tgz",
+    "@types/o11n-plugin-vcac": "file:..\\..\\..\\..\\.m2\\repository\\com\\vmware\\pscoe\\ts\\o11n-plugin-vcac\\7.0.13\\o11n-plugin-vcac-7.0.13.tgz",
+    "@types/o11n-plugin-vcaccafe": "file:..\\..\\..\\..\\.m2\\repository\\com\\vmware\\pscoe\\ts\\o11n-plugin-vcaccafe\\7.0.13\\o11n-plugin-vcaccafe-7.0.13.tgz",
+    "@types/o11n-plugin-vcloud": "file:..\\..\\..\\..\\.m2\\repository\\com\\vmware\\pscoe\\ts\\o11n-plugin-vcloud\\7.0.13\\o11n-plugin-vcloud-7.0.13.tgz",
+    "@types/o11n-plugin-vco": "file:..\\..\\..\\..\\.m2\\repository\\com\\vmware\\pscoe\\ts\\o11n-plugin-vco\\7.0.13\\o11n-plugin-vco-7.0.13.tgz",
+    "@types/o11n-plugin-xml": "file:..\\..\\..\\..\\.m2\\repository\\com\\vmware\\pscoe\\ts\\o11n-plugin-xml\\7.0.13\\o11n-plugin-xml-7.0.13.tgz",
+    "@types/vrotsc-annotations": "file:..\\..\\..\\..\\.m2\\repository\\com\\vmware\\pscoe\\ts\\vrotsc-annotations\\2.12.5\\vrotsc-annotations-2.12.5.tgz",
+    "@vmware-pscoe/vrotsc": "file:..\\..\\..\\..\\.m2\\repository\\com\\vmware\\pscoe\\iac\\vrotsc\\2.12.5\\vrotsc-2.12.5.tgz"
+  }
+}
